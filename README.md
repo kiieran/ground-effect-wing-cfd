@@ -11,4 +11,4 @@ Gurney flap design study.
 4. Gurney flap design study
 
 ## Status
-🚧 In progress – validation results expected December 2026.
+In progress. Validation results expected December 2026.
